@@ -2,7 +2,7 @@
 window.onload = () => {
 	setTimeout(() => {
 		document.querySelector('body').classList.add('display');
-	}, 3000);
+	}, 4000);
 };
 
 // MENU
