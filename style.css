@@ -808,6 +808,10 @@ html {
 }
 
 @media (max-width: 700px) {
+  .header {
+    height: 75vh;
+  }
+
   .banner h1 {
     font-size: 4rem;
     line-height: 5rem;
