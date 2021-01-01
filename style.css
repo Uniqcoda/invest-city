@@ -286,7 +286,7 @@ html {
   background-color: #c29525;
 }
 
-/* ABOUT US  */
+/* SERVICES  */
 
 .services {
   width: 100%;
@@ -328,13 +328,13 @@ html {
 }
 
 
-.about-us-img-wrapper {
+.services-img-wrapper {
   grid-column: 7/11;
   grid-row: 2/6;
   width: 100%;
 }
 
-.about-us-img-wrapper img {
+.services-img-wrapper img {
   width: 100%;
   object-fit: cover;
   opacity: .8;
@@ -637,5 +637,5 @@ html {
 }
 
 .show-scroll-btn {
-display: flex;
+  display: flex;
 }
