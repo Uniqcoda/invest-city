@@ -627,11 +627,15 @@ html {
   width: 4.5rem;
   height: 4.5rem;
   background-color: #e2b646;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   font-size: 2rem;
   color: #fff;
   box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.2);
   border-radius: .3rem;
+}
+
+.show-scroll-btn {
+display: flex;
 }
