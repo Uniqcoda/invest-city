@@ -691,10 +691,6 @@ html {
   color: #4b4b4b;
 }
 
-.field:focus {
-  border-bottom-style: solid;
-}
-
 .input-group input {
   height: 4rem;
 }
@@ -721,11 +717,6 @@ html {
 
 .message {
   bottom: 6rem;
-}
-
-.field:focus~label {
-  transform: translateY(-3rem);
-  font-size: 1.2rem;
 }
 
 .submit-btn {
