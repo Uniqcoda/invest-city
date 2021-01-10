@@ -988,12 +988,12 @@ html {
   }
 
   .sidebar {
-    width: 100%;
-    right: -100%;
+    width: 70%;
+    right: -70%;
   }
 
   .change .hamburger-menu {
-    right: 38rem;
+    right: 30rem;
   }
 
   .service {
